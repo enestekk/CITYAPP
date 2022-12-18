@@ -1,7 +1,7 @@
 # CITYAPP
 CITYHOSPITALAPP
 Yönetim Bilişm Sistemleri sistem analizi ve tasarımı ödevi CityHospitalApp
-ÖĞRENCİLER
+ÖĞRENCİLER:
 Hasan AKSOY 412446
 Hande ATAKOL 412831
 Enes TEK 416405
